@@ -1,0 +1,65 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=1.5em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\pagestyle{empty}
+
+\newcommand{\polje}[1]{\textbf{#1}}
+
+\begin{document}
+
+{\large\textbf{Prijava teme seminarske naloge}}\\[0.2em]
+Nekonvencionalne platforme in metode procesiranja, 2026/2027\\
+Skupina 08: Jurij Anžič, Janez Koprivec
+
+\vspace{0.6em}
+
+\polje{Naslov:} Primerjava kvantnih seštevalnikov CDKM in Draper (QFT) na šumnem
+kvantnem procesorju IBM
+
+\polje{Opis:} V Qiskitu bomo implementirala Cuccarov seštevalnik z zaporednim
+prenosom (CDKM) in Draperjev seštevalnik na osnovi kvantne Fourierjeve
+transformacije (QFT). Oba bosta seštevala dve $n$-bitni števili v
+$(n{+}1)$-bitni rezultat. Za $n = 1$ do $5$ ju bomo izvedla na idealnem
+simulatorju, na simulatorju s šumnim modelom in na procesorju IBM.
+
+\polje{Raziskovalno vprašanje:} Kateri seštevalnik na procesorju IBM pogosteje
+vrne pravilno vsoto in ali to napove število dvokubitnih vrat po prevajanju?
+
+\polje{Hipoteza:} Pri vsakem $n$ od $2$ do $5$ bo CDKM na procesorju IBM imel
+višjo verjetnost pravilne vsote kot Draper, ker bo imel po prevajanju manj
+dvokubitnih vrat.
+
+\polje{Metrike:}
+\begin{itemize}
+  \item verjetnost pravilne vsote, primerjana z naključnim izidom ($1/2^{n+1}$)
+  \item število kubitov, globina in število dvokubitnih vrat pred prevajanjem in po njem
+\end{itemize}
+
+\polje{Načrt poskusov:}
+\begin{enumerate}
+  \item Preverjanje pravilnosti obeh seštevalnikov na idealnem simulatorju.
+  \item Prevajanje za izbrani procesor IBM z enakimi nastavitvami za oba in
+        zapis lastnosti vezij.
+  \item Zagon na šumnem simulatorju in nato na procesorju IBM z enakimi pari
+        vhodov za oba seštevalnika (vsi pari pri $n \le 2$, sicer 16 naključnih).
+  \item Primerjava uspešnosti in števila vrat.
+\end{enumerate}
+
+\polje{Orodja:} Qiskit, Qiskit Aer, IBM Quantum (Open Plan), matplotlib,
+Overleaf, GitHub.
+
+\polje{Razdelitev dela:}
+\begin{itemize}
+  \item \emph{Posebej:} vsak od članov posebej pregleda enega od seštevalnikov
+        in literaturo zanj.
+  \item \emph{Skupaj:} zagon poskusov, primerjava in grafi, poročilo in predstavitev.
+\end{itemize}
+
+\end{document}

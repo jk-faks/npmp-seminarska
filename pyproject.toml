@@ -1,0 +1,23 @@
+[project]
+name = "npmp-seminarska"
+version = "0.1.0"
+description = "Primerjava kvantnih seštevalnikov CDKM in Draper (QFT) na šumnem kvantnem procesorju IBM"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "qiskit>=2.6.2",
+    "qiskit-aer>=0.18.4",
+    "qiskit-ibm-runtime>=0.52.1",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]

@@ -1,0 +1,1498 @@
+[
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 5,
+  "globina_po": 8,
+  "counts": {
+   "00": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 5,
+  "globina_po": 9,
+  "counts": {
+   "01": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 5,
+  "globina_po": 9,
+  "counts": {
+   "01": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 5,
+  "globina_po": 9,
+  "counts": {
+   "10": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 9,
+  "globina_po": 13,
+  "counts": {
+   "000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 0,
+  "b": 2,
+  "dvokubitna_po": 9,
+  "globina_po": 13,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 0,
+  "b": 3,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 1,
+  "b": 2,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 1,
+  "b": 3,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 2,
+  "b": 0,
+  "dvokubitna_po": 9,
+  "globina_po": 13,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 2,
+  "b": 1,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 2,
+  "b": 2,
+  "dvokubitna_po": 9,
+  "globina_po": 13,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 2,
+  "b": 3,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 3,
+  "b": 0,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 3,
+  "b": 1,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 3,
+  "b": 2,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 2,
+  "a": 3,
+  "b": 3,
+  "dvokubitna_po": 9,
+  "globina_po": 14,
+  "counts": {
+   "110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 0,
+  "b": 2,
+  "dvokubitna_po": 13,
+  "globina_po": 18,
+  "counts": {
+   "0010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 0,
+  "b": 4,
+  "dvokubitna_po": 13,
+  "globina_po": 18,
+  "counts": {
+   "0100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 1,
+  "b": 2,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "0011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 1,
+  "b": 7,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 2,
+  "b": 2,
+  "dvokubitna_po": 13,
+  "globina_po": 18,
+  "counts": {
+   "0100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 2,
+  "b": 3,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "0101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 2,
+  "b": 5,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "0111": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 2,
+  "b": 6,
+  "dvokubitna_po": 13,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 3,
+  "b": 3,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "0110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 3,
+  "b": 4,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "0111": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 3,
+  "b": 5,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 4,
+  "b": 4,
+  "dvokubitna_po": 13,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 4,
+  "b": 5,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 5,
+  "b": 3,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 5,
+  "b": 4,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 3,
+  "a": 5,
+  "b": 5,
+  "dvokubitna_po": 13,
+  "globina_po": 19,
+  "counts": {
+   "1010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 17,
+  "globina_po": 23,
+  "counts": {
+   "00000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 1,
+  "b": 13,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 3,
+  "b": 5,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 4,
+  "b": 7,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 5,
+  "b": 0,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "00101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 6,
+  "b": 5,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 8,
+  "b": 1,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 8,
+  "b": 2,
+  "dvokubitna_po": 17,
+  "globina_po": 23,
+  "counts": {
+   "01010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 8,
+  "b": 6,
+  "dvokubitna_po": 17,
+  "globina_po": 23,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 10,
+  "b": 0,
+  "dvokubitna_po": 17,
+  "globina_po": 23,
+  "counts": {
+   "01010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 11,
+  "b": 3,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 11,
+  "b": 5,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "10000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 12,
+  "b": 9,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "10101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 12,
+  "b": 13,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "11001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 13,
+  "b": 5,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "10010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 4,
+  "a": 14,
+  "b": 3,
+  "dvokubitna_po": 17,
+  "globina_po": 24,
+  "counts": {
+   "10001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 2,
+  "b": 9,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "001011": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 3,
+  "b": 17,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "010100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 3,
+  "b": 30,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "100001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 4,
+  "b": 0,
+  "dvokubitna_po": 21,
+  "globina_po": 28,
+  "counts": {
+   "000100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 5,
+  "b": 11,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "010000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 5,
+  "b": 15,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "010100": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 6,
+  "b": 31,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "100101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 10,
+  "b": 20,
+  "dvokubitna_po": 21,
+  "globina_po": 28,
+  "counts": {
+   "011110": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 13,
+  "b": 3,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "010000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 18,
+  "b": 6,
+  "dvokubitna_po": 21,
+  "globina_po": 28,
+  "counts": {
+   "011000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 19,
+  "b": 20,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "100111": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 22,
+  "b": 26,
+  "dvokubitna_po": 21,
+  "globina_po": 28,
+  "counts": {
+   "110000": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 25,
+  "b": 12,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "100101": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 29,
+  "b": 28,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "111001": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 29,
+  "b": 29,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "111010": 1000
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 5,
+  "a": 31,
+  "b": 21,
+  "dvokubitna_po": 21,
+  "globina_po": 29,
+  "counts": {
+   "110100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 4,
+  "globina_po": 8,
+  "counts": {
+   "00": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 4,
+  "globina_po": 8,
+  "counts": {
+   "01": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 4,
+  "globina_po": 8,
+  "counts": {
+   "01": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 4,
+  "globina_po": 8,
+  "counts": {
+   "10": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 0,
+  "b": 2,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 0,
+  "b": 3,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 1,
+  "b": 2,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 1,
+  "b": 3,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 2,
+  "b": 0,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 2,
+  "b": 1,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 2,
+  "b": 2,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 2,
+  "b": 3,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 3,
+  "b": 0,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 3,
+  "b": 1,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 3,
+  "b": 2,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 2,
+  "a": 3,
+  "b": 3,
+  "dvokubitna_po": 11,
+  "globina_po": 13,
+  "counts": {
+   "110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 0,
+  "b": 2,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 0,
+  "b": 4,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 1,
+  "b": 2,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 1,
+  "b": 7,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 2,
+  "b": 2,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 2,
+  "b": 3,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 2,
+  "b": 5,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0111": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 2,
+  "b": 6,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 3,
+  "b": 3,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 3,
+  "b": 4,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "0111": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 3,
+  "b": 5,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 4,
+  "b": 4,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 4,
+  "b": 5,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 5,
+  "b": 3,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 5,
+  "b": 4,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 3,
+  "a": 5,
+  "b": 5,
+  "dvokubitna_po": 21,
+  "globina_po": 18,
+  "counts": {
+   "1010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "00000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 1,
+  "b": 13,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 3,
+  "b": 5,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 4,
+  "b": 7,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 5,
+  "b": 0,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "00101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 6,
+  "b": 5,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 8,
+  "b": 1,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 8,
+  "b": 2,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 8,
+  "b": 6,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 10,
+  "b": 0,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 11,
+  "b": 3,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "01110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 11,
+  "b": 5,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "10000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 12,
+  "b": 9,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "10101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 12,
+  "b": 13,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "11001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 13,
+  "b": 5,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "10010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 4,
+  "a": 14,
+  "b": 3,
+  "dvokubitna_po": 34,
+  "globina_po": 23,
+  "counts": {
+   "10001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 2,
+  "b": 9,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "001011": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 3,
+  "b": 17,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "010100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 3,
+  "b": 30,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "100001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 4,
+  "b": 0,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "000100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 5,
+  "b": 11,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "010000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 5,
+  "b": 15,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "010100": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 6,
+  "b": 31,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "100101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 10,
+  "b": 20,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "011110": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 13,
+  "b": 3,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "010000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 18,
+  "b": 6,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "011000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 19,
+  "b": 20,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "100111": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 22,
+  "b": 26,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "110000": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 25,
+  "b": 12,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "100101": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 29,
+  "b": 28,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "111001": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 29,
+  "b": 29,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "111010": 1000
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 5,
+  "a": 31,
+  "b": 21,
+  "dvokubitna_po": 50,
+  "globina_po": 28,
+  "counts": {
+   "110100": 1000
+  }
+ }
+]

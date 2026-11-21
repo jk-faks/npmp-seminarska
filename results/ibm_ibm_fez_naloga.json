@@ -1,0 +1,1098 @@
+{
+ "nacin": "ibm",
+ "backend": "ibm_fez",
+ "shots": 1000,
+ "job_id": "dc0rbg5hdvas73bjutd0",
+ "oddano": "2026-11-21T15:16:16+00:00",
+ "poraba_s": 39.0,
+ "naloge": [
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 22,
+   "globina_po": 73
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 22,
+   "globina_po": 72
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 22,
+   "globina_po": 73
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 22,
+   "globina_po": 72
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 0,
+   "b": 2,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 0,
+   "b": 3,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 1,
+   "b": 2,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 1,
+   "b": 3,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 2,
+   "b": 0,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 2,
+   "b": 1,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 2,
+   "b": 2,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 2,
+   "b": 3,
+   "dvokubitna_po": 46,
+   "globina_po": 146
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 3,
+   "b": 0,
+   "dvokubitna_po": 46,
+   "globina_po": 148
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 3,
+   "b": 1,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 3,
+   "b": 2,
+   "dvokubitna_po": 46,
+   "globina_po": 147
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 2,
+   "a": 3,
+   "b": 3,
+   "dvokubitna_po": 46,
+   "globina_po": 146
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 0,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 218
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 0,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 218
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 1,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 218
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 1,
+   "b": 7,
+   "dvokubitna_po": 70,
+   "globina_po": 215
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 2,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 217
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 2,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 215
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 2,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 216
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 2,
+   "b": 6,
+   "dvokubitna_po": 70,
+   "globina_po": 216
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 3,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 215
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 3,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 218
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 3,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 217
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 4,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 217
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 4,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 215
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 5,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 217
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 5,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 217
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 3,
+   "a": 5,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 216
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 94,
+   "globina_po": 287
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 1,
+   "b": 13,
+   "dvokubitna_po": 94,
+   "globina_po": 286
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 3,
+   "b": 5,
+   "dvokubitna_po": 94,
+   "globina_po": 286
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 4,
+   "b": 7,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 5,
+   "b": 0,
+   "dvokubitna_po": 94,
+   "globina_po": 287
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 6,
+   "b": 5,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 8,
+   "b": 1,
+   "dvokubitna_po": 94,
+   "globina_po": 286
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 8,
+   "b": 2,
+   "dvokubitna_po": 94,
+   "globina_po": 287
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 8,
+   "b": 6,
+   "dvokubitna_po": 94,
+   "globina_po": 287
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 10,
+   "b": 0,
+   "dvokubitna_po": 94,
+   "globina_po": 287
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 11,
+   "b": 3,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 11,
+   "b": 5,
+   "dvokubitna_po": 94,
+   "globina_po": 286
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 12,
+   "b": 9,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 12,
+   "b": 13,
+   "dvokubitna_po": 94,
+   "globina_po": 284
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 13,
+   "b": 5,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 4,
+   "a": 14,
+   "b": 3,
+   "dvokubitna_po": 94,
+   "globina_po": 285
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 2,
+   "b": 9,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 3,
+   "b": 17,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 3,
+   "b": 30,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 4,
+   "b": 0,
+   "dvokubitna_po": 124,
+   "globina_po": 374
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 5,
+   "b": 11,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 5,
+   "b": 15,
+   "dvokubitna_po": 124,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 6,
+   "b": 31,
+   "dvokubitna_po": 124,
+   "globina_po": 371
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 10,
+   "b": 20,
+   "dvokubitna_po": 124,
+   "globina_po": 374
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 13,
+   "b": 3,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 18,
+   "b": 6,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 19,
+   "b": 20,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 22,
+   "b": 26,
+   "dvokubitna_po": 124,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 25,
+   "b": 12,
+   "dvokubitna_po": 124,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 29,
+   "b": 28,
+   "dvokubitna_po": 124,
+   "globina_po": 371
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 29,
+   "b": 29,
+   "dvokubitna_po": 124,
+   "globina_po": 370
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 5,
+   "a": 31,
+   "b": 21,
+   "dvokubitna_po": 124,
+   "globina_po": 371
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 10,
+   "globina_po": 38
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 29,
+   "globina_po": 97
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 29,
+   "globina_po": 97
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 0,
+   "b": 2,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 0,
+   "b": 3,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 1,
+   "b": 2,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 1,
+   "b": 3,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 2,
+   "b": 0,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 2,
+   "b": 1,
+   "dvokubitna_po": 29,
+   "globina_po": 98
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 2,
+   "b": 2,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 2,
+   "b": 3,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 3,
+   "b": 0,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 3,
+   "b": 1,
+   "dvokubitna_po": 29,
+   "globina_po": 99
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 3,
+   "b": 2,
+   "dvokubitna_po": 29,
+   "globina_po": 100
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 2,
+   "a": 3,
+   "b": 3,
+   "dvokubitna_po": 29,
+   "globina_po": 100
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 0,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 186
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 0,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 188
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 1,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 185
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 1,
+   "b": 7,
+   "dvokubitna_po": 70,
+   "globina_po": 186
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 2,
+   "b": 2,
+   "dvokubitna_po": 70,
+   "globina_po": 186
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 2,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 189
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 2,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 188
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 2,
+   "b": 6,
+   "dvokubitna_po": 70,
+   "globina_po": 187
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 3,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 185
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 3,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 186
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 3,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 186
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 4,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 187
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 4,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 187
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 5,
+   "b": 3,
+   "dvokubitna_po": 70,
+   "globina_po": 185
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 5,
+   "b": 4,
+   "dvokubitna_po": 70,
+   "globina_po": 188
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 3,
+   "a": 5,
+   "b": 5,
+   "dvokubitna_po": 70,
+   "globina_po": 188
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 139,
+   "globina_po": 264
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 1,
+   "b": 13,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 3,
+   "b": 5,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 4,
+   "b": 7,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 5,
+   "b": 0,
+   "dvokubitna_po": 139,
+   "globina_po": 266
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 6,
+   "b": 5,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 8,
+   "b": 1,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 8,
+   "b": 2,
+   "dvokubitna_po": 139,
+   "globina_po": 264
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 8,
+   "b": 6,
+   "dvokubitna_po": 139,
+   "globina_po": 264
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 10,
+   "b": 0,
+   "dvokubitna_po": 139,
+   "globina_po": 266
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 11,
+   "b": 3,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 11,
+   "b": 5,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 12,
+   "b": 9,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 12,
+   "b": 13,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 13,
+   "b": 5,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 4,
+   "a": 14,
+   "b": 3,
+   "dvokubitna_po": 139,
+   "globina_po": 268
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 2,
+   "b": 9,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 3,
+   "b": 17,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 3,
+   "b": 30,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 4,
+   "b": 0,
+   "dvokubitna_po": 195,
+   "globina_po": 370
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 5,
+   "b": 11,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 5,
+   "b": 15,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 6,
+   "b": 31,
+   "dvokubitna_po": 195,
+   "globina_po": 371
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 10,
+   "b": 20,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 13,
+   "b": 3,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 18,
+   "b": 6,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 19,
+   "b": 20,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 22,
+   "b": 26,
+   "dvokubitna_po": 195,
+   "globina_po": 371
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 25,
+   "b": 12,
+   "dvokubitna_po": 195,
+   "globina_po": 372
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 29,
+   "b": 28,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 29,
+   "b": 29,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 5,
+   "a": 31,
+   "b": 21,
+   "dvokubitna_po": 195,
+   "globina_po": 373
+  }
+ ]
+}

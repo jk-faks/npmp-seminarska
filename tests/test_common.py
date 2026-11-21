@@ -56,3 +56,11 @@ def test_metrike(ime):
     assert m["n"] == 2 and m["sestevalnik"] == ime
     assert m["dvokubitna_po"] > 0
     assert m["globina_po"] >= m["globina_pred"]
+
+
+def test_razgradnja_je_primerljiva():
+    """Po razgradnji na CX: CDKM 2n Toffolijev (po 6 CX) + 4n+1 CX, Draper 2 CX na fazna vrata."""
+    for n in range(1, 6):
+        assert metrike("cdkm", n, FakeTorino())["cx_razgrajeno"] == 16 * n + 1
+        st_faznih = ADDERS["draper"](n).count_ops()["cp"]
+        assert metrike("draper", n, FakeTorino())["cx_razgrajeno"] == 2 * st_faznih

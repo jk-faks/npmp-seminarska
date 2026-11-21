@@ -1,0 +1,9 @@
+nacin,backend,sestevalnik,n,a,b,dvokubitna_po,globina_po,shots,p_pravilne,nakljucno
+ibm_pilot,ibm_fez,cdkm,1,0,0,22,73,1000,0.936,0.25
+ibm_pilot,ibm_fez,cdkm,1,0,1,22,72,1000,0.902,0.25
+ibm_pilot,ibm_fez,cdkm,1,1,0,22,73,1000,0.906,0.25
+ibm_pilot,ibm_fez,cdkm,1,1,1,22,72,1000,0.903,0.25
+ibm_pilot,ibm_fez,draper,1,0,0,10,40,1000,0.903,0.25
+ibm_pilot,ibm_fez,draper,1,0,1,10,38,1000,0.897,0.25
+ibm_pilot,ibm_fez,draper,1,1,0,10,40,1000,0.891,0.25
+ibm_pilot,ibm_fez,draper,1,1,1,10,40,1000,0.915,0.25

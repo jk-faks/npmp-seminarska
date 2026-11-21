@@ -1,0 +1,74 @@
+{
+ "nacin": "ibm_pilot",
+ "backend": "ibm_fez",
+ "shots": 1000,
+ "job_id": "dc0r00ls2omc7389ndn0",
+ "oddano": "2026-11-21T14:51:46+00:00",
+ "poraba_s": 4.0,
+ "naloge": [
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 22,
+   "globina_po": 73
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 22,
+   "globina_po": 72
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 22,
+   "globina_po": 73
+  },
+  {
+   "sestevalnik": "cdkm",
+   "n": 1,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 22,
+   "globina_po": 72
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 0,
+   "b": 0,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 0,
+   "b": 1,
+   "dvokubitna_po": 10,
+   "globina_po": 38
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 1,
+   "b": 0,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  },
+  {
+   "sestevalnik": "draper",
+   "n": 1,
+   "a": 1,
+   "b": 1,
+   "dvokubitna_po": 10,
+   "globina_po": 40
+  }
+ ]
+}

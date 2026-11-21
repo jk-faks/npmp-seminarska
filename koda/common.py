@@ -6,7 +6,7 @@ prevajanja, število ponovitev), so tu na enem mestu.
 
 import random
 
-from qiskit import ClassicalRegister, QuantumCircuit
+from qiskit import ClassicalRegister, QuantumCircuit, transpile
 from qiskit.transpiler import generate_preset_pass_manager
 
 from koda.adders import ADDERS
@@ -46,10 +46,10 @@ def pripravi_vezje(ime: str, n: int, a_val: int, b_val: int) -> QuantumCircuit:
     return qc
 
 
-def pass_manager(backend):
+def pass_manager(backend, seed: int = SEED):
     """Prevajalnik z enakimi nastavitvami za oba seštevalnika."""
     return generate_preset_pass_manager(
-        optimization_level=OPTIMIZATION_LEVEL, backend=backend, seed_transpiler=SEED
+        optimization_level=OPTIMIZATION_LEVEL, backend=backend, seed_transpiler=seed
     )
 
 
@@ -62,14 +62,30 @@ def st_vrat(qc: QuantumCircuit, st_kubitov: int) -> int:
     )
 
 
+DODATNA_SEMENA = range(5)  # poleg SEED še ta semena za razpon dvokubitnih vrat po prevajanju
+
+
+def razgradi(qc: QuantumCircuit) -> QuantumCircuit:
+    """Razgradnja na CX in enokubitna vrata, brez optimizacije in brez topologije procesorja.
+
+    Šele tako sta seštevalnika primerljiva pred prevajanjem: Toffolijeva vrata (CDKM)
+    stanejo 6 CX, kontrolirana fazna vrata (Draper) 2 CX.
+    """
+    return transpile(qc, basis_gates=["cx", "u"], optimization_level=0)
+
+
 def metrike(ime: str, n: int, backend) -> dict:
     """Lastnosti samega seštevalnika (brez vhodov in meritev) pred prevajanjem in po njem.
 
-    Pred prevajanjem CDKM vsebuje Toffolijeva vrata (3 kubiti), zato jih štejemo posebej.
-    Po prevajanju so vsa večkubitna vrata dvokubitna (na IBM Heron so to vrata CZ).
+    Pred prevajanjem štejemo vrata, kot so v vezju (CDKM ima Toffolijeva, 3 kubiti), in
+    po razgradnji na CX (primerljivo med seštevalnikoma). Po prevajanju so vsa večkubitna
+    vrata dvokubitna (na IBM Heron so to vrata CZ). Prevajanje je pri ravni 3 naključno,
+    zato poročamo tudi razpon čez več semen.
     """
     qc = ADDERS[ime](n)
+    r = razgradi(qc)
     t = pass_manager(backend).run(qc)
+    razpon = [st_vrat(t, 2)] + [st_vrat(pass_manager(backend, s).run(qc), 2) for s in DODATNA_SEMENA]
     return {
         "sestevalnik": ime,
         "n": n,
@@ -78,8 +94,12 @@ def metrike(ime: str, n: int, backend) -> dict:
         "globina_pred": qc.depth(),
         "dvokubitna_pred": st_vrat(qc, 2),
         "trokubitna_pred": st_vrat(qc, 3),
+        "cx_razgrajeno": st_vrat(r, 2),
+        "globina_razgrajeno": r.depth(),
         "globina_po": t.depth(),
         "dvokubitna_po": st_vrat(t, 2),
+        "dvokubitna_po_min": min(razpon),
+        "dvokubitna_po_max": max(razpon),
     }
 
 

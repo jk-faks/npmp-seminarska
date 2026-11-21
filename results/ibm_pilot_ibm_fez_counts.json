@@ -1,0 +1,114 @@
+[
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 22,
+  "globina_po": 73,
+  "counts": {
+   "00": 936,
+   "01": 35,
+   "11": 6,
+   "10": 23
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 22,
+  "globina_po": 72,
+  "counts": {
+   "01": 902,
+   "00": 34,
+   "10": 27,
+   "11": 37
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 22,
+  "globina_po": 73,
+  "counts": {
+   "01": 906,
+   "00": 34,
+   "10": 34,
+   "11": 26
+  }
+ },
+ {
+  "sestevalnik": "cdkm",
+  "n": 1,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 22,
+  "globina_po": 72,
+  "counts": {
+   "10": 903,
+   "11": 42,
+   "00": 30,
+   "01": 25
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 0,
+  "b": 0,
+  "dvokubitna_po": 10,
+  "globina_po": 40,
+  "counts": {
+   "00": 903,
+   "10": 70,
+   "11": 9,
+   "01": 18
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 0,
+  "b": 1,
+  "dvokubitna_po": 10,
+  "globina_po": 38,
+  "counts": {
+   "01": 897,
+   "11": 69,
+   "00": 19,
+   "10": 15
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 1,
+  "b": 0,
+  "dvokubitna_po": 10,
+  "globina_po": 40,
+  "counts": {
+   "01": 891,
+   "10": 11,
+   "11": 71,
+   "00": 27
+  }
+ },
+ {
+  "sestevalnik": "draper",
+  "n": 1,
+  "a": 1,
+  "b": 1,
+  "dvokubitna_po": 10,
+  "globina_po": 40,
+  "counts": {
+   "10": 915,
+   "11": 12,
+   "00": 60,
+   "01": 13
+  }
+ }
+]

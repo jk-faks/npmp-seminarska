@@ -1,0 +1,11 @@
+sestevalnik,n,backend,kubiti,globina_pred,dvokubitna_pred,trokubitna_pred,cx_razgrajeno,globina_razgrajeno,globina_po,dvokubitna_po,dvokubitna_po_min,dvokubitna_po_max
+cdkm,1,fake_fez,4,7,5,2,17,26,73,22,22,22
+draper,1,fake_fez,3,7,4,0,8,18,39,10,10,10
+cdkm,2,fake_fez,6,12,9,4,33,50,147,46,43,48
+draper,2,fake_fez,5,12,11,0,22,38,96,29,29,33
+cdkm,3,fake_fez,8,17,13,6,49,74,217,70,67,72
+draper,3,fake_fez,7,17,21,0,42,58,188,70,68,82
+cdkm,4,fake_fez,10,22,17,8,65,98,286,94,94,94
+draper,4,fake_fez,9,22,34,0,68,78,265,139,121,144
+cdkm,5,fake_fez,12,27,21,10,81,122,371,124,124,130
+draper,5,fake_fez,11,27,50,0,100,98,374,195,177,211

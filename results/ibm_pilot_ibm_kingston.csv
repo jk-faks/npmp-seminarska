@@ -1,0 +1,9 @@
+nacin,backend,sestevalnik,n,a,b,dvokubitna_po,globina_po,shots,p_pravilne,nakljucno
+ibm_pilot,ibm_kingston,cdkm,1,0,0,22,74,1000,0.926,0.25
+ibm_pilot,ibm_kingston,cdkm,1,0,1,22,73,1000,0.924,0.25
+ibm_pilot,ibm_kingston,cdkm,1,1,0,22,74,1000,0.906,0.25
+ibm_pilot,ibm_kingston,cdkm,1,1,1,22,73,1000,0.91,0.25
+ibm_pilot,ibm_kingston,draper,1,0,0,10,40,1000,0.979,0.25
+ibm_pilot,ibm_kingston,draper,1,0,1,10,38,1000,0.949,0.25
+ibm_pilot,ibm_kingston,draper,1,1,0,10,40,1000,0.954,0.25
+ibm_pilot,ibm_kingston,draper,1,1,1,10,40,1000,0.969,0.25

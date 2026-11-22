@@ -13,7 +13,11 @@ Jurij Anžič, Janez Koprivec. Predmet: Nekonvencionalne platforme in metode pro
 - `koda/common.py` — skupni del: vhodi, priprava vezij, prevajanje, metrike
 - `koda/run.py` — poganjanje poskusov (glej spodaj)
 - `tests/` — testi (pytest)
+- `koda/ibm.py`, `koda/analiza.py`, `koda/grafi.py` — zagon na IBM, analiza poslov, grafi
 - `results/` — izmerjeni rezultati
+- `porocilo/` — poročilo: `editor.tex` (glavna datoteka zbornika), `Skupina08/main.tex` (najino
+  poglavje), `Skupina08/img/` (slike), `references.bib`. Prevajanje: `cd porocilo && latexmk -pdf editor.tex`
+  (potrebni paketi TeX Live: slovenščina za babel, `physics`, `siunitx`, `quantikz`)
 
 ## Namestitev
 
@@ -159,7 +163,7 @@ Povprečna verjetnost pravilne vsote (CDKM / Draper):
 
 ```sh
 uv run python -m koda.analiza ibm_ibm_fez   # za katerikoli posel; prvič prenese vezja in kalibracijo
-uv run python -m koda.grafi                 # grafi v porocilo/img/
+uv run python -m koda.grafi                 # grafi v porocilo/Skupina08/img/
 ```
 
 `koda/analiza.py` iz IBM prenese natanko oddana vezja (s fizičnimi kubiti) in kalibracijo v času
@@ -168,7 +172,7 @@ uspešnosti iz napak vrat in meritev (ESP), trajanje in čas mirovanja kubitov t
 napačni. Rezultat je `<ime>_analiza.csv`.
 
 Korelacija ESP z izmerjeno uspešnostjo (vsa vezja posla): fez brez DD +0,86 in +0,87 (ponovitev),
-fez z DD +0,97, kingston brez DD +0,68, kingston z DD +0,95.
+fez z DD +0,97, kingston brez DD +0,68, kingston z DD +0,94.
 
 ## Dogovor o vmesniku seštevalnika
 

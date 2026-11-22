@@ -2,7 +2,7 @@
 
     uv run python -m koda.grafi
 
-Zapiše PDF-je v porocilo/img/.
+Zapiše PDF-je v porocilo/Skupina08/img/ (slike poročila).
 """
 
 import csv
@@ -16,7 +16,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 
 REZULTATI = Path("results")
-IZHOD = Path("porocilo/img")
+IZHOD = Path("porocilo/Skupina08/img")
 BARVE = {"cdkm": "#1f77b4", "draper": "#d62728"}
 IMENA = {"cdkm": "CDKM", "draper": "Draper"}
 
@@ -84,8 +84,40 @@ def graf_esp(ime: str, datoteka: str, naslov: str) -> None:
     plt.close(fig)
 
 
+def graf_vrata(posel: str, metrike: str, datoteka: str) -> None:
+    """Dvokubitna vrata po prevajanju (oddana vezja posla) in CX po razgradnji (brez topologije)."""
+    import json
+
+    pot = REZULTATI / f"{posel}_naloga.json"
+    if not pot.exists():
+        return
+    po_prevajanju = defaultdict(list)
+    for t in json.loads(pot.read_text())["naloge"]:
+        po_prevajanju[(t["sestevalnik"], t["n"])].append(t["dvokubitna_po"])
+    razgrajeno = {(v["sestevalnik"], int(v["n"])): int(v["cx_razgrajeno"]) for v in preberi(metrike)}
+
+    fig, ax = plt.subplots(figsize=(6, 4))
+    for sest in IMENA:
+        ns = sorted(n for (s, n) in po_prevajanju if s == sest)
+        ax.plot(ns, [mean(po_prevajanju[(sest, n)]) for n in ns], "-", marker="o",
+                color=BARVE[sest], label=f"{IMENA[sest]}, po prevajanju (CZ)")
+        ns_r = sorted(n for (s, n) in razgrajeno if s == sest)
+        ax.plot(ns_r, [razgrajeno[(sest, n)] for n in ns_r], "--", marker="s", markersize=4,
+                color=BARVE[sest], label=f"{IMENA[sest]}, razgrajeno na CX")
+    ax.set_xlabel("število bitov $n$")
+    ax.set_ylabel("število dvokubitnih vrat")
+    ax.set_xticks(sorted({n for _, n in po_prevajanju}))
+    ax.set_title("Dvokubitna vrata (ibm_kingston, raven prevajanja 3)")
+    ax.grid(alpha=0.3)
+    ax.legend(fontsize=8)
+    fig.tight_layout()
+    fig.savefig(IZHOD / datoteka)
+    plt.close(fig)
+
+
 def main() -> None:
     IZHOD.mkdir(parents=True, exist_ok=True)
+    graf_vrata("ibm_n8_ibm_kingston", "metrike_fake_fez", "vrata.pdf")
     graf_uspesnost([("ideal_aer_simulator", "idealno", "-"),
                     ("sum_fake_fez", "šumni simulator FakeFez", "--"),
                     ("ibm_ibm_fez", "ibm_fez", "-")],

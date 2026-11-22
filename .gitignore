@@ -16,3 +16,13 @@ __pycache__/
 
 # Gradivo predmeta (ni naše delo)
 Navodila za izdelavo seminarske naloge.pdf
+*.bbl
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
